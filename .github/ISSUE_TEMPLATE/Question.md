@@ -1,6 +1,7 @@
 ---
 name: Question
 about: The issue tracker is not for questions. Please use StackOverflow or other resources for help writing Detox code.
+labels: bug
 
 ---
 
