@@ -10,7 +10,7 @@ Here's a checklist you might find useful.
 * [ ] There are new or updated unit tests validating the change
 
 Refer to CONTRIBUTING.MD for more details.
-  https://github.com/Microsoft/TypeScript/blob/master/CONTRIBUTING.md
+  https://github.com/wix/detox/blob/master/CONTRIBUTING.md
 -->
 
 Fixes #

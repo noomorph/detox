@@ -3,28 +3,28 @@
 Half of all issues filed here are duplicates, answered in the FAQ, or not appropriate for the bug tracker.
 
 Please help us by doing the following steps before logging an issue:
-  * Search: https://github.com/Microsoft/TypeScript/search?type=Issues
-  * Read the CONTRIBUTING guidelines: https://github.com/Microsoft/TypeScript/blob/master/CONTRIBUTING.md
-  * Read the FAQ: https://github.com/Microsoft/TypeScript/wiki/FAQ
+  * Search: https://github.com/wix/detox/search?type=Issues
+  * Read the CONTRIBUTING guidelines: https://github.com/wix/detox/blob/master/CONTRIBUTING.md
+  * Read the FAQ: https://github.com/wix/detox/wiki/FAQ
 -->
 
 <!-- If you have a QUESTION:
    THIS IS NOT A FORUM FOR QUESTIONS.
-   Ask questions at http://stackoverflow.com/questions/tagged/typescript
-    or https://gitter.im/Microsoft/TypeScript
+   Ask questions at http://stackoverflow.com/questions/tagged/detox
+    or https://gitter.im/wix/detox
 -->
 
 <!-- If you have a SUGGESTION:
   Most suggestion reports are duplicates, please search extra hard before logging a new suggestion.
-  See https://github.com/Microsoft/TypeScript-wiki/blob/master/Writing-Good-Design-Proposals.md
+  See https://github.com/wix/detox-wiki/blob/master/Writing-Good-Design-Proposals.md
 -->
 
 <!-- If you have a BUG:
   Please fill in the *entire* template below.
 -->
 
-<!-- Please try to reproduce the issue with `typescript@next`. It may have already been fixed. -->
-**TypeScript Version:**  3.0.0-dev.201xxxxx
+<!-- Please try to reproduce the issue with `detox@next`. It may have already been fixed. -->
+**detox Version:**  3.0.0-dev.201xxxxx
 
 <!-- Search terms you tried before logging this (so others can find this issue more easily) -->
 **Search Terms:** 
@@ -40,6 +40,6 @@ Please help us by doing the following steps before logging an issue:
 
 **Actual behavior:**
 
-**Playground Link:** <!-- A link to a TypeScript Playground "Share" link which demonstrates this behavior --> 
+**Playground Link:** <!-- A link to a detox Playground "Share" link which demonstrates this behavior --> 
 
 **Related Issues:**

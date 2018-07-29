@@ -10,7 +10,7 @@ DO NOT CREATE A NEW ISSUE TO ASK A QUESTION.
 
 IF YOU ARE HAVING PROBLEMS WITH YOUR DETOX CODE, DO NOT ASK A QUESTION HERE.
 
-Tens of thousands of `detox` questions have been asked and answered on StackOverflow; see https://stackoverflow.com/questions/tagged/detox . You can ask questions there or on other websites.
+Dozens of `detox` questions have been asked and answered on StackOverflow; see https://stackoverflow.com/questions/tagged/detox . You can ask questions there or on other websites.
 
 The only exception is if you have a question about *how the detox internals work*.
 
